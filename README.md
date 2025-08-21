@@ -3,7 +3,7 @@
 
 I build intuitive, responsive, and accessible digital experiences by combining my background in **graphic design** with my skills in **front-end web development**. I’m passionate about continuous learning, modern frameworks, and creating user-first interfaces.  
 
-🌐 [Portfolio Website — coming soon]()  
+🌐 Portfolio Website — coming soon  
 💻 [GitHub](https://github.com/fcuevas6)  
 🔗 [LinkedIn](https://www.linkedin.com/in/francisco-cuevas-designer/)  
 ✉️ [Email](mailto:fcuevas09@gmail.com)  
